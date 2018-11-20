@@ -13,5 +13,4 @@
 
 * La gastronomie turque 
 [Cliquez ici](https://www.nefisyemektarifleri.com/)
-<a name="ancre"> 
-    [Retour en haut](#top)
+<a name="ancre">[Retour en haut](#top)
