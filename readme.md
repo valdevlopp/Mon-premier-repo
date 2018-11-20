@@ -11,8 +11,6 @@
 1. Dolma
 1. Cay
 
-* La gastronomie turque 
-
-[Cliquez ici](https://www.nefisyemektarifleri.com/) 
+* La gastronomie turque [Cliquez ici](https://www.nefisyemektarifleri.com/) 
 
 <a name="ancre">[Retour en haut](#top)
