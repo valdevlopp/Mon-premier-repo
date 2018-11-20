@@ -1,16 +1,16 @@
 <a name="top"></a>
-# mon premier repo
+# _mon premier repo_
 ## mon premier repo
-### mon premier repo
+### ~~mon premier repo~~
 #### mon premier repo
 ##### mon premier repo
 ###### mon premier repo
 
 # Les listes
-1. Sarma
-1. Dolma
-1. Cay
+1. **Sarma**
+1. **Dolma**
+1. **Cay**
 
-* La gastronomie turque [Cliquez ici](https://www.nefisyemektarifleri.com/) 
+* **_La gastronomie turque_** [Cliquez ici](https://www.nefisyemektarifleri.com/) 
 
 <a name="ancre">[Retour en haut](#top)
